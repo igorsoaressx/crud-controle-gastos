@@ -5,7 +5,7 @@ Links de entrega do projeto (API + PWA)
 ## 1. Links das Aplicações (Hospedagem em Nuvem)
 
 * **Aplicação (PWA):** [https://pwa-controle-gastos.vercel.app](https://pwa-controle-gastos.vercel.app)
-* **API (Backend):** <https://api-controle-gastos.onrender.com>
+* **API (Backend):** [https...api-controle-gastos.onrender.com/categoria](https://api-controle-gastos.onrender.com/categoria)
 
 ## 2. Links do Código Fonte (GitHub)
 
@@ -15,7 +15,7 @@ Links de entrega do projeto (API + PWA)
 ### Links de Demonstração (Endpoints de Exemplo)
 
 * **Exemplo de Rota (PWA):** [https...pwa-controle-gastos.vercel.app/categorias](https://pwa-controle-gastos.vercel.app/categorias)
-* **Exemplo de Resposta (API):** [https...api-controle-gastos.onrender.com/categoria](https://api-controle-gastos.onrender.com/categoria)
+
 
 ### Links de Gerenciamento (Dashboards de Hospedagem)
 
