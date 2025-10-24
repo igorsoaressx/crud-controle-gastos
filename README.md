@@ -1,6 +1,6 @@
 # Trabalho Prático - PWA Controle de Gastos
 
-Links de entrega do projeto (API + PWA) conforme solicitado.
+Links de entrega do projeto (API + PWA) 
 
 ## 1. Links das Aplicações (Hospedagem em Nuvem)
 
